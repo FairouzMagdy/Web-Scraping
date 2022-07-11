@@ -1,6 +1,6 @@
 -- BeautifulSoup --
 
-A bot that asks you to enter the name of the job you want to search about in wuzzuf.com website, then scrapes the website for:
+A bot that asks you to enter the name of the job you want to search for in wuzzuf.com website, then scrapes the website for:
 
 1- Jobs titles
 
